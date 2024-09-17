@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Ashu730/Ashu730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is Ashu Rastogi a passionate student who study about the tech world.Ashu730/Ashu730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
