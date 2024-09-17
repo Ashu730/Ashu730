@@ -1,3 +1,4 @@
+[![MasterHead](https://img.wattpad.com/d6c032efe7b6d50c497da8f97ad70be6aea0ae92/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f36635a5576516d48466c397132413d3d2d3934343237333833382e313632663363373761303730666438653834303232333134393834332e676966)]
 <h1 align="center">Hi 👋, I'm Ashu Rastogi</h1>
 <h3 align="center">A passionate tech world engineer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
